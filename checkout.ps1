@@ -12,3 +12,4 @@ git clone https://github.com/pip-services3-java/pip-services3-memcached-java.git
 git clone https://github.com/pip-services3-java/pip-services3-redis-java.git
 git clone https://github.com/pip-services3-java/pip-services3-mongodb-java.git
 git clone https://github.com/pip-services3-java/pip-services3-prometheus-java.git
+git clone https://github.com/pip-services3-java/pip-services3-expressions-java.git
